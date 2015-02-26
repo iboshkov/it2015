@@ -32,4 +32,8 @@ public partial class Zadaca : System.Web.UI.Page
     {
         Response.Redirect("Katalog.aspx");
     }
+    protected void lbProizvodi_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        lbCeni.SelectedIndex = lbProizvodi.SelectedIndex;
+    }
 }

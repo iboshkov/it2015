@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td>
-                    <asp:ListBox Width="100%" Height="100%" ID="lbProizvodi" runat="server" style="margin-top: 0px"></asp:ListBox>
+                    <asp:ListBox Width="100%" Height="100%" ID="lbProizvodi" runat="server" style="margin-top: 0px" AutoPostBack="True" OnSelectedIndexChanged="lbProizvodi_SelectedIndexChanged"></asp:ListBox>
                 </td>
                 <td>
                     <asp:ListBox Width="100%" Height="100%" ID="lbCeni" runat="server"></asp:ListBox>
