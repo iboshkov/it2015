@@ -24,25 +24,25 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud1", "http://localhost:25
 		SlnRelativePath = "Auditoriski\Aud1\"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud2", "http://localhost:25877", "{48721CC7-CD42-41F6-B394-67882333F5B5}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud2i3", "http://localhost:25877", "{48721CC7-CD42-41F6-B394-67882333F5B5}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_25877"
-		Debug.AspNetCompiler.PhysicalPath = "Auditoriski\Aud2\"
+		Debug.AspNetCompiler.PhysicalPath = "Auditoriski\Aud2i3\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25877\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_25877"
-		Release.AspNetCompiler.PhysicalPath = "Auditoriski\Aud2\"
+		Release.AspNetCompiler.PhysicalPath = "Auditoriski\Aud2i3\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25877\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "Auditoriski\Aud2\"
+		SlnRelativePath = "Auditoriski\Aud2i3\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
