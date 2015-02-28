@@ -24,7 +24,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud1", "http://localhost:25
 		SlnRelativePath = "Auditoriski\Aud1\"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud2i3", "http://localhost:25877", "{48721CC7-CD42-41F6-B394-67882333F5B5}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud2", "http://localhost:25877", "{48721CC7-CD42-41F6-B394-67882333F5B5}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
@@ -46,6 +46,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud2i3", "http://localhost:
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Aud4", "http://localhost:8730", "{33D2E200-B9B6-4491-9BF7-28B4B145E564}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8730"
+		Debug.AspNetCompiler.PhysicalPath = "Auditoriski\Aud4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8730\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8730"
+		Release.AspNetCompiler.PhysicalPath = "Auditoriski\Aud4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8730\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Auditoriski\Aud4\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +76,8 @@ Global
 		{091F9C8F-452E-4C80-BCCC-ECA23F8773FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48721CC7-CD42-41F6-B394-67882333F5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{48721CC7-CD42-41F6-B394-67882333F5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D2E200-B9B6-4491-9BF7-28B4B145E564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D2E200-B9B6-4491-9BF7-28B4B145E564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
